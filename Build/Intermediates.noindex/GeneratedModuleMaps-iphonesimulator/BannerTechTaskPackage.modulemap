@@ -1,0 +1,4 @@
+module BannerTechTaskPackage {
+header "BannerTechTaskPackage-Swift.h"
+export *
+}

@@ -1,0 +1,4 @@
+module CHTCollectionViewWaterfallLayoutObjC {
+umbrella "/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gjjcpxbxohnfyxcsazzqqqrnqmjv/SourcePackages/checkouts/CHTCollectionViewWaterfallLayout/Source"
+export *
+}

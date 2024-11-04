@@ -1,0 +1,338 @@
+// !$*UTF8*$!
+{
+    archiveVersion = 1;
+    classes = {
+    };
+    objectVersion = 77;
+    objects = {
+
+/* Begin PBXBuildFile section */
+        4528ED6D2CD8E590004E46C8 /* TimerTechTaskPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 4528ED6C2CD8E590004E46C8 /* TimerTechTaskPackage */; };
+        4528ED702CD8E5BB004E46C8 /* BannerTechTaskPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 4528ED6F2CD8E5BB004E46C8 /* BannerTechTaskPackage */; };
+        454CB2612CD8E47B000771FC /* TimerTechTaskPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 454CB2602CD8E47B000771FC /* TimerTechTaskPackage */; };
+        4552DEB82CD7910C00FB140B /* CHTCollectionViewWaterfallLayout in Frameworks */ = {isa = PBXBuildFile; productRef = 4552DEB72CD7910C00FB140B /* CHTCollectionViewWaterfallLayout */; };
+        4552DEBA2CD7910C00FB140B /* CHTCollectionViewWaterfallLayoutObjC in Frameworks */ = {isa = PBXBuildFile; productRef = 4552DEB92CD7910C00FB140B /* CHTCollectionViewWaterfallLayoutObjC */; };
+        4552DEBD2CD7947300FB140B /* TimerTechTaskPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 4552DEBC2CD7947300FB140B /* TimerTechTaskPackage */; };
+        459B2B962CD7192700944EC3 /* BannerTechTaskPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 459B2B952CD7192700944EC3 /* BannerTechTaskPackage */; };
+        459B2B982CD71BF900944EC3 /* BannerTechTaskPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 459B2B972CD71BF900944EC3 /* BannerTechTaskPackage */; };
+        459B2B9D2CD7222100944EC3 /* BannerTechTaskPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 459B2B9C2CD7222100944EC3 /* BannerTechTaskPackage */; };
+        459B2BA02CD727B900944EC3 /* BannerTechTaskPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 459B2B9F2CD727B900944EC3 /* BannerTechTaskPackage */; };
+        459B2BAA2CD7313100944EC3 /* BannerTechTaskPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 459B2BA92CD7313100944EC3 /* BannerTechTaskPackage */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+        45BCDC272CD73E5C00A95DEE /* Embed Frameworks */ = {
+            isa = PBXCopyFilesBuildPhase;
+            buildActionMask = 2147483647;
+            dstPath = "";
+            dstSubfolderSpec = 10;
+            files = (
+            );
+            name = "Embed Frameworks";
+            runOnlyForDeploymentPostprocessing = 0;
+        };
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+        459B2AB32CD5A76600944EC3 /* TechTask3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TechTask3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+        DE1929379E2A410C0C5E4249 /* Pods_TechTask3.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TechTask3.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+        459B2AC52CD5A76700944EC3 /* Exceptions for "TechTask3" folder in "TechTask3" target */ = {
+            isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+            membershipExceptions = (
+                Info.plist,
+            );
+            target = 459B2AB22CD5A76600944EC3 /* TechTask3 */;
+        };
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+        459B2AB52CD5A76600944EC3 /* TechTask3 */ = {
+            isa = PBXFileSystemSynchronizedRootGroup;
+            exceptions = (
+                459B2AC52CD5A76700944EC3 /* Exceptions for "TechTask3" folder in "TechTask3" target */,
+            );
+            path = TechTask3;
+            sourceTree = "<group>";
+        };
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+        459B2AB02CD5A76600944EC3 /* Frameworks */ = {
+            isa = PBXFrameworksBuildPhase;
+            buildActionMask = 2147483647;
+            files = (
+                4552DEBA2CD7910C00FB140B /* CHTCollectionViewWaterfallLayoutObjC in Frameworks */,
+                459B2BAA2CD7313100944EC3 /* BannerTechTaskPackage in Frameworks */,
+                459B2BA02CD727B900944EC3 /* BannerTechTaskPackage in Frameworks */,
+                459B2B9D2CD7222100944EC3 /* BannerTechTaskPackage in Frameworks */,
+                4552DEBD2CD7947300FB140B /* TimerTechTaskPackage in Frameworks */,
+                459B2B962CD7192700944EC3 /* BannerTechTaskPackage in Frameworks */,
+                4528ED702CD8E5BB004E46C8 /* BannerTechTaskPackage in Frameworks */,
+                454CB2612CD8E47B000771FC /* TimerTechTaskPackage in Frameworks */,
+                4552DEB82CD7910C00FB140B /* CHTCollectionViewWaterfallLayout in Frameworks */,
+                459B2B982CD71BF900944EC3 /* BannerTechTaskPackage in Frameworks */,
+                4528ED6D2CD8E590004E46C8 /* TimerTechTaskPackage in Frameworks */,
+            );
+            runOnlyForDeploymentPostprocessing = 0;
+        };
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+        459B2AAA2CD5A76600944EC3 = {
+            isa = PBXGroup;
+            children = (
+                459B2AB52CD5A76600944EC3 /* TechTask3 */,
+                459B2AB42CD5A76600944EC3 /* Products */,
+                9BC37C3BB9A7342B1C99ECF6 /* Frameworks */,
+            );
+            sourceTree = "<group>";
+        };
+        459B2AB42CD5A76600944EC3 /* Products */ = {
+            isa = PBXGroup;
+            children = (
+                459B2AB32CD5A76600944EC3 /* TechTask3.app */,
+            );
+            name = Products;
+            sourceTree = "<group>";
+        };
+        9BC37C3BB9A7342B1C99ECF6 /* Frameworks */ = {
+            isa = PBXGroup;
+            children = (
+                DE1929379E2A410C0C5E4249 /* Pods_TechTask3.framework */,
+            );
+            name = Frameworks;
+            sourceTree = "<group>";
+        };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+        459B2AB22CD5A76600944EC3 /* TechTask3 */ = {
+            isa = PBXNativeTarget;
+            buildConfigurationList = 459B2AC62CD5A76700944EC3 /* Build configuration list for PBXNativeTarget "TechTask3" */;
+            buildPhases = (
+                459B2AAF2CD5A76600944EC3 /* Sources */,
+                459B2AB02CD5A76600944EC3 /* Frameworks */,
+                459B2AB12CD5A76600944EC3 /* Resources */,
+                45BCDC272CD73E5C00A95DEE /* Embed Frameworks */,
+            );
+            buildRules = (
+            );
+            dependencies = (
+            );
+            fileSystemSynchronizedGroups = (
+                459B2AB52CD5A76600944EC3 /* TechTask3 */,
+            );
+            name = TechTask3;
+            productName = TechTask3;
+            productReference = 459B2AB32CD5A76600944EC3 /* TechTask3.app */;
+            productType = "com.apple.product-type.application";
+        };
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+        459B2AAB2CD5A76600944EC3 /* Project object */ = {
+            isa = PBXProject;
+            attributes = {
+                BuildIndependentTargetsInParallel = 1;
+                LastSwiftUpdateCheck = 1610;
+                LastUpgradeCheck = 1610;
+                TargetAttributes = {
+                    459B2AB22CD5A76600944EC3 = {
+                        CreatedOnToolsVersion = 16.1;
+                    };
+                };
+            };
+            buildConfigurationList = 459B2AAE2CD5A76600944EC3 /* Build configuration list for PBXProject "TechTask3" */;
+            developmentRegion = en;
+            hasScannedForEncodings = 0;
+            knownRegions = (
+                en,
+                Base,
+            );
+            mainGroup = 459B2AAA2CD5A76600944EC3;
+            minimizedProjectReferenceProxies = 1;
+            packageReferences = (
+                4552DEB62CD7910C00FB140B /* XCRemoteSwiftPackageReference "CHTCollectionViewWaterfallLayout" */,
+                454CB25F2CD8E47B000771FC /* XCRemoteSwiftPackageReference "TimerTechTaskPackage" */,
+                4528ED6E2CD8E5BB004E46C8 /* XCRemoteSwiftPackageReference "BannerTechTaskPackage" */,
+            );
+            preferredProjectObjectVersion = 77;
+            productRefGroup = 459B2AB42CD5A76600944EC3 /* Products */;
+            projectDirPath = "";
+            projectRoot = "";
+            targets = (
+                459B2AB22CD5A76600944EC3 /* TechTask3 */,
+            );
+        };
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+        459B2AB12CD5A76600944EC3 /* Resources */ = {
+            isa = PBXResourcesBuildPhase;
+            buildActionMask = 2147483647;
+            files = (
+            );
+            runOnlyForDeploymentPostprocessing = 0;
+        };
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+        459B2AAF2CD5A76600944EC3 /* Sources */ = {
+            isa = PBXSourcesBuildPhase;
+            buildActionMask = 2147483647;
+            files = (
+            );
+            runOnlyForDeploymentPostprocessing = 0;
+        };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+        459B2AC72CD5A76700944EC3 /* Debug */ = {
+            isa = XCBuildConfiguration;
+            buildSettings = {
+                ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+                ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+                CODE_SIGN_STYLE = Automatic;
+                CURRENT_PROJECT_VERSION = 1;
+                DEVELOPMENT_TEAM = 4D9A6P6X9K;
+                ENABLE_USER_SCRIPT_SANDBOXING = NO;
+                GENERATE_INFOPLIST_FILE = YES;
+                INFOPLIST_FILE = TechTask3/Info.plist;
+                INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+                INFOPLIST_KEY_UILaunchStoryboardName = TechTask3;
+                INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+                INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+                IPHONEOS_DEPLOYMENT_TARGET = 12;
+                LD_RUNPATH_SEARCH_PATHS = (
+                    "$(inherited)",
+                    "@executable_path/Frameworks",
+                );
+                MARKETING_VERSION = 1.0;
+                PRODUCT_BUNDLE_IDENTIFIER = avvinStudio.com.TechTask3;
+                PRODUCT_NAME = "$(TARGET_NAME)";
+                SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+                SUPPORTS_MACCATALYST = NO;
+                SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+                SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+                SWIFT_EMIT_LOC_STRINGS = YES;
+                SWIFT_VERSION = 5.0;
+                TARGETED_DEVICE_FAMILY = 1;
+            };
+            name = Debug;
+        };
+        459B2AC82CD5A76700944EC3 /* Release */ = {
+            isa = XCBuildConfiguration;
+            buildSettings = {
+                ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+                ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+                CODE_SIGN_STYLE = Automatic;
+                CURRENT_PROJECT_VERSION = 1;
+                DEVELOPMENT_TEAM = 4D9A6P6X9K;
+                ENABLE_USER_SCRIPT_SANDBOXING = NO;
+                GENERATE_INFOPLIST_FILE = YES;
+                INFOPLIST_FILE = TechTask3/Info.plist;
+                INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+                INFOPLIST_KEY_UILaunchStoryboardName = TechTask3;
+                INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+                INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+                IPHONEOS_DEPLOYMENT_TARGET = 12;
+                LD_RUNPATH_SEARCH_PATHS = (
+                    "$(inherited)",
+                    "@executable_path/Frameworks",
+                );
+                MARKETING_VERSION = 1.0;
+                PRODUCT_BUNDLE_IDENTIFIER = avvinStudio.com.TechTask3;
+                PRODUCT_NAME = "$(TARGET_NAME)";
+                SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+                SUPPORTS_MACCATALYST = NO;
+                SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+                SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+                SWIFT_EMIT_LOC_STRINGS = YES;
+                SWIFT_VERSION = 5.0;
+                TARGETED_DEVICE_FAMILY = 1;
+            };
+            name = Release;
+        };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+        459B2AAE2CD5A76600944EC3 /* Build configuration list for PBXProject "TechTask3" */ = {
+            isa = XCConfigurationList;
+            buildConfigurations = (
+                459B2AC72CD5A76700944EC3 /* Debug */,
+                459B2AC82CD5A76700944EC3 /* Release */,
+            );
+            defaultConfigurationIsVisible = 0;
+            defaultConfigurationName = Release;
+        };
+        459B2AC62CD5A76700944EC3 /* Build configuration list for PBXNativeTarget "TechTask3" */ = {
+            isa = XCConfigurationList;
+            buildConfigurations = (
+                459B2AC72CD5A76700944EC3 /* Debug */,
+                459B2AC82CD5A76700944EC3 /* Release */,
+            );
+            defaultConfigurationIsVisible = 0;
+            defaultConfigurationName = Release;
+        };
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+        4528ED6E2CD8E5BB004E46C8 /* XCRemoteSwiftPackageReference "BannerTechTaskPackage" */ = {
+            isa = XCRemoteSwiftPackageReference;
+            repositoryURL = "https://github.com/VladimirVinageras/BannerTechTaskPackage";
+            requirement = {
+                branch = main;
+                kind = branch;
+            };
+        };
+        454CB25F2CD8E47B000771FC /* XCRemoteSwiftPackageReference "TimerTechTaskPackage" */ = {
+            isa = XCRemoteSwiftPackageReference;
+            repositoryURL = "https://github.com/VladimirVinageras/TimerTechTaskPackage";
+            requirement = {
+                branch = main;
+                kind = branch;
+            };
+        };
+        4552DEB62CD7910C00FB140B /* XCRemoteSwiftPackageReference "CHTCollectionViewWaterfallLayout" */ = {
+            isa = XCRemoteSwiftPackageReference;
+            repositoryURL = "https://github.com/chiahsien/CHTCollectionViewWaterfallLayout";
+            requirement = {
+                kind = upToNextMajorVersion;
+                minimumVersion = 0.9.10;
+            };
+        };
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+        4528ED6C2CD8E590004E46C8 /* TimerTechTaskPackage */ = {
+            isa = XCSwiftPackageProductDependency;
+            package = 454CB25F2CD8E47B000771FC /* XCRemoteSwiftPackageReference "TimerTechTaskPackage" */;
+            productName = TimerTechTaskPackage;
+        };
+        4528ED6F2CD8E5BB004E46C8 /* BannerTechTaskPackage */ = {
+            isa = XCSwiftPackageProductDependency;
+            package = 4528ED6E2CD8E5BB004E46C8 /* XCRemoteSwiftPackageReference "BannerTechTaskPackage" */;
+            productName = BannerTechTaskPackage;
+        };
+        454CB2602CD8E47B000771FC /* TimerTechTaskPackage */ = {
+            isa = XCSwiftPackageProductDependency;
+            package = 454CB25F2CD8E47B000771FC /* XCRemoteSwiftPackageReference "TimerTechTaskPackage" */;
+            productName = TimerTechTaskPackage;
+        };
+        4552DEB72CD7910C00FB140B /* CHTCollectionViewWaterfallLayout */ = {
+            isa = XCSwiftPackageProductDependency;
+            package = 4552DEB62CD7910C00FB140B /* XCRemoteSwiftPackageReference "CHTCollectionViewWaterfallLayout" */;
+            productName = CHTCollectionViewWaterfallLayout;
+        };
+        4552DEB92CD7910C00FB140B /* CHTCollectionViewWaterfallLayoutObjC */ = {
+            isa = XCSwiftPackageProductDependency;
+            package = 4552DEB62CD7910C00FB140B /* XCRemoteSwiftPackageReference "CHTCollectionViewWaterfallLayout" */;
+            productName = CHTCollectionViewWaterfallLayoutObjC;
+        };
+/* End XCSwiftPackageProductDependency section */
+    };
+    rootObject = 459B2AAB2CD5A76600944EC3 /* Project object */;
+}

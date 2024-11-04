@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/BannerTechTaskPackage-master.dia",
+    "emit-module-dependencies" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/BannerTechTaskPackage-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/BannerTechTaskPackage-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/BannerTechTaskPackage-master.swiftdeps"
+  },
+  "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gjjcpxbxohnfyxcsazzqqqrnqmjv/SourcePackages/checkouts/BannerTechTaskPackage/Sources/BannerTechTaskPackage/Assets.swift" : {
+    "const-values" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/Assets.swiftconstvalues",
+    "dependencies" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/Assets.d",
+    "diagnostics" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/Assets.dia",
+    "index-unit-output-path" : "/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/Assets.o",
+    "llvm-bc" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/Assets.bc",
+    "object" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/Assets.o",
+    "swift-dependencies" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/Assets.swiftdeps",
+    "swiftmodule" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/Assets~partial.swiftmodule"
+  },
+  "/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gjjcpxbxohnfyxcsazzqqqrnqmjv/SourcePackages/checkouts/BannerTechTaskPackage/Sources/BannerTechTaskPackage/BannerTechTaskViewController.swift" : {
+    "const-values" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/BannerTechTaskViewController.swiftconstvalues",
+    "dependencies" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/BannerTechTaskViewController.d",
+    "diagnostics" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/BannerTechTaskViewController.dia",
+    "index-unit-output-path" : "/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/BannerTechTaskViewController.o",
+    "llvm-bc" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/BannerTechTaskViewController.bc",
+    "object" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/BannerTechTaskViewController.o",
+    "swift-dependencies" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/BannerTechTaskViewController.swiftdeps",
+    "swiftmodule" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/BannerTechTaskViewController~partial.swiftmodule"
+  },
+  "/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gjjcpxbxohnfyxcsazzqqqrnqmjv/SourcePackages/checkouts/BannerTechTaskPackage/Sources/BannerTechTaskPackage/UIColorExtension.swift" : {
+    "const-values" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/UIColorExtension.swiftconstvalues",
+    "dependencies" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/UIColorExtension.d",
+    "diagnostics" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/UIColorExtension.dia",
+    "index-unit-output-path" : "/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/UIColorExtension.o",
+    "llvm-bc" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/UIColorExtension.bc",
+    "object" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/UIColorExtension.o",
+    "swift-dependencies" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/UIColorExtension.swiftdeps",
+    "swiftmodule" : "/Users/vinakheras/Desktop/TechTask3/Build/Intermediates.noindex/BannerTechTaskPackage.build/Debug-iphonesimulator/BannerTechTaskPackage.build/Objects-normal/arm64/UIColorExtension~partial.swiftmodule"
+  }
+}

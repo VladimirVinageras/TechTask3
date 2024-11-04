@@ -1,0 +1,4 @@
+module TimerTechTaskPackage {
+header "TimerTechTaskPackage-Swift.h"
+export *
+}

@@ -1,0 +1,51 @@
+{
+  "originHash" : "24b341609bfb6886581f3b7ec6d59fb4df48d740a260b8b48a238df9d6d7a9b0",
+  "pins" : [
+    {
+      "identity" : "bannertechtaskpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VladimirVinageras/BannerTechTaskPackage",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5e715c63f73a95b0bd3d617402b1be6599dae04a"
+      }
+    },
+    {
+      "identity" : "chtcollectionviewwaterfalllayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/chiahsien/CHTCollectionViewWaterfallLayout",
+      "state" : {
+        "revision" : "1fe42247efc8aea1ad03332d2b44f2d7fb1644bc",
+        "version" : "0.9.10"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "revision" : "b4bd0604ded9574807f41b4004b57dd1226a30a4",
+        "version" : "3.5.0"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
+    },
+    {
+      "identity" : "timertechtaskpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VladimirVinageras/TimerTechTaskPackage",
+      "state" : {
+        "branch" : "main",
+        "revision" : "cd92e468bc7515b9d837931ec1554122f8c0e9bc"
+      }
+    }
+  ],
+  "version" : 3
+}

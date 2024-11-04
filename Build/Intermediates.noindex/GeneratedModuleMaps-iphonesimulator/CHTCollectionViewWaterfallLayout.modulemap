@@ -1,0 +1,4 @@
+module CHTCollectionViewWaterfallLayout {
+header "CHTCollectionViewWaterfallLayout-Swift.h"
+export *
+}
