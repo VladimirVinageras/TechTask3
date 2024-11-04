@@ -4,7 +4,8 @@
 Проект использует ряд технологий и пакетов, включая: 
 `SnapKit` ([SnapKit](https://github.com/SnapKit/SnapKit)), 
 `CHTCollectionViewWaterfallLayout` ([CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)) для создания layuot, 
-и собственные пакеты:
+и собственные пакеты: 
+
  `TimerTechTaskPackage` ([TimerTechTaskPackage](https://github.com/username/TimerTechTaskPackage)), 
 и `BannerTechTaskPackage` ([BannerTechTaskPackage](https://github.com/username/BannerTechTaskPackage)).
 
