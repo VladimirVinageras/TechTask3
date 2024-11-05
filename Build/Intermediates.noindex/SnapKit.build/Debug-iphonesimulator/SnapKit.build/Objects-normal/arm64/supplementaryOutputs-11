@@ -1,0 +1,24 @@
+"/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gfijkyzeupesksfeapeljfoxnykk/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift":
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.swiftdeps"
+  const-values: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.swiftconstvalues"
+  object: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.o"
+  dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.d"
+  diagnostics: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.dia"
+"/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gfijkyzeupesksfeapeljfoxnykk/SourcePackages/checkouts/SnapKit/Sources/ConstraintViewDSL.swift":
+  dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.d"
+  diagnostics: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.dia"
+  object: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.o"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.swiftdeps"
+  const-values: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.swiftconstvalues"
+"/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gfijkyzeupesksfeapeljfoxnykk/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift":
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.swiftdeps"
+  dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.d"
+  diagnostics: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.dia"
+  object: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.o"
+  const-values: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.swiftconstvalues"
+"/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gfijkyzeupesksfeapeljfoxnykk/SourcePackages/checkouts/SnapKit/Sources/Debugging.swift":
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.swiftdeps"
+  dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.d"
+  object: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.o"
+  const-values: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.swiftconstvalues"
+  diagnostics: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.dia"

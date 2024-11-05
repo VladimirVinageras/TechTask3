@@ -1,0 +1,30 @@
+"/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gfijkyzeupesksfeapeljfoxnykk/SourcePackages/checkouts/SnapKit/Sources/ConstraintMaker.swift":
+  object: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.o"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.swiftdeps"
+  dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.d"
+  const-values: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.swiftconstvalues"
+  diagnostics: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.dia"
+"/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gfijkyzeupesksfeapeljfoxnykk/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift":
+  const-values: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.swiftconstvalues"
+  diagnostics: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.dia"
+  object: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.o"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.swiftdeps"
+  dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.d"
+"/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gfijkyzeupesksfeapeljfoxnykk/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift":
+  dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.d"
+  object: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.o"
+  diagnostics: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.dia"
+  const-values: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.swiftconstvalues"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.swiftdeps"
+"/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gfijkyzeupesksfeapeljfoxnykk/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift":
+  dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.d"
+  diagnostics: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.dia"
+  const-values: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.swiftconstvalues"
+  object: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.o"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.swiftdeps"
+"/Users/vinakheras/Library/Developer/Xcode/DerivedData/TechTask3-gfijkyzeupesksfeapeljfoxnykk/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift":
+  const-values: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.swiftconstvalues"
+  object: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.o"
+  dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.d"
+  diagnostics: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.dia"
+  swift-dependencies: "/Users/vinakheras/Desktop/TechTasks/TechTask3/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.swiftdeps"
