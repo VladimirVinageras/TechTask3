@@ -1,6 +1,7 @@
 ## Описание проекта: TechTask3
 
-**TechTask3** — это демо iOS-приложение с основным экраном, разработанное для отображения галереи изображений, а также встроенного баннера и таймера. 
+**TechTask3** — это демо iOS-приложение с основным экраном, разработанное для отображения галереи изображений, а также встроенного баннера и таймера. (Минимальная верси iOS : iOS12.)
+
 Проект использует ряд технологий и пакетов, включая: 
 `SnapKit` ([SnapKit](https://github.com/SnapKit/SnapKit)), 
 `CHTCollectionViewWaterfallLayout` ([CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)) для создания layuot, 
@@ -24,7 +25,9 @@
    - Верстка экрана реализован с использованием SnapKit.
 
 
-<img width="385" alt="image" src="https://github.com/user-attachments/assets/e8be8002-1cb6-430f-a704-cf9cfb117160">
+https://github.com/user-attachments/assets/0f71f3ef-0849-4c88-8e5b-95bc67ff3285
+
+
 
 
 
